@@ -10,4 +10,4 @@ I'm too cheap to pay the developer signup fee on the Chrome Web Store. You can i
 2. Toggle **Developer mode**
 3. Click **Load unpacked extension**
 4. Navigate to the directory where you cloned the repository
-5. Done
+5. Select the `src/` directory
