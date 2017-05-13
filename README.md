@@ -1,6 +1,6 @@
 # Refined Facebook
 
-A Chrome extension that enforces the [mobile version of Facebook](https://m.facebook.com), which consumes very little resources, loads really fast and is **much less distracting**.
+A Chrome extension that enforces the [mobile version of Facebook](https://m.facebook.com), which consumes very little resources, loads really fast and is **much less distracting**. Inspired by [Refined Wikipedia](https://github.com/ismamz/refined-wikipedia).
 
 ## Install
 
