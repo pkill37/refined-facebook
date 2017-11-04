@@ -1,5 +1,7 @@
 # Refined Facebook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/faviouz/refined-facebook.svg)](https://greenkeeper.io/)
+
 A Chrome extension inspired by [Refined Wikipedia](https://github.com/ismamz/refined-wikipedia) that enforces the [mobile version of Facebook](https://m.facebook.com), which consumes very little resources, loads really fast and is **much less distracting**.
 
 ## Install
